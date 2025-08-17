@@ -1,4 +1,4 @@
-# GenAI Agent Demo Journey
+# GenAI Agent Demo
 
 ## 🙌 Acknowledgement & Inspiration
 
