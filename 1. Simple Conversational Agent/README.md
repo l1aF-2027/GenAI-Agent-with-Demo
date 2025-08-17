@@ -1,5 +1,7 @@
 
-# 🚀 1. Simple Conversational Agent
+# 1. Simple Conversational Agent
+
+<img width="1862" height="957" alt="image" src="https://github.com/user-attachments/assets/cc7d7d78-d351-4e45-8c83-fba1b2767eb3" />
 
 ## 📖 Overview
 
@@ -8,7 +10,6 @@ Unlike many chatbots that forget past messages, this agent maintains **chat hist
 
 💡 *Note: No chat history is persisted to a database (e.g., Prisma/Neon); memory is reset on backend restart.*
 
----
 
 ## 📂 Project Structure
 
@@ -31,7 +32,7 @@ Unlike many chatbots that forget past messages, this agent maintains **chat hist
     └── ...              # Config files & build artifacts
 ```
 
----
+
 
 ## ✨ Key Features
 
@@ -41,7 +42,6 @@ Unlike many chatbots that forget past messages, this agent maintains **chat hist
 * **💻 Modern Frontend:** Next.js + React chat interface.
 * **📦 Lightweight:** No database integration for chat logs.
 
----
 
 ## ⚙️ How It Works
 
@@ -51,14 +51,11 @@ Unlike many chatbots that forget past messages, this agent maintains **chat hist
 4. **AI Response** → Gemini 2.5 Flash generates context-aware replies.
 5. **Frontend** → Next.js UI communicates with backend via WebSocket.
 
----
 
 ## 🎯 Motivation
 
 Most chatbots fail to maintain **context**, leading to broken or repetitive interactions.
 This project improves **conversation flow** by keeping session history, making responses feel more natural.
-
----
 
 ## 🔧 Extensibility
 
@@ -66,14 +63,10 @@ This project improves **conversation flow** by keeping session history, making r
 * 💾 **Persistent Storage:** Connect Prisma/Neon for saving chats.
 * 🎨 **Custom Prompts:** Adapt for customer support, sales, education, etc.
 
----
-
 ## ⚠️ Limitations
 
 * **Ephemeral History** → Lost if backend restarts.
 * **No Chat DB** → Prisma/Neon only for auth & user data (not conversations).
-
----
 
 ## 🚀 Getting Started
 
@@ -121,8 +114,6 @@ npm run dev
 ### 4️⃣ Start Chatting 🎉
 
 Open `http://localhost:3000` in your browser and chat with the AI agent!
-
----
 
 ## 📌 Notes
 
