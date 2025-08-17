@@ -19,7 +19,7 @@ It’s an amazing collection of tutorials and examples for building Generative A
 
 | #️   | Category | Agent Name                |  Framework | Key Features                                     |
 | --- | ---------- | --------------------------- | ----------- | -------------------------------------------------- |
-| 1   | 🌱 Beginner | [Simple Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/tree/main) | LangChain, FastAPI, Next.js   | Context-aware conversations, in-memory history |
+| 1   | 🌱 Beginner | [Simple Conversational Agent](https://github.com/l1aF-2027/GenAI-Agent-with-Demo/tree/main/1.%20Simple%20Conversational%20Agent) | LangChain, FastAPI, Next.js   | Context-aware conversations, in-memory history |
 
 
 💬 *This repository marks the start of my journey in AI Agent development.*
