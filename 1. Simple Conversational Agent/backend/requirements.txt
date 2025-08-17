@@ -1,0 +1,7 @@
+langchain
+langchain_experimental
+openai
+python-dotenv
+langchain_google_genai
+fastapi
+fastapi[standard]
