@@ -7,7 +7,7 @@ import { Toaster } from "sonner";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AI Chatbot",
+  title: "1. Simple Conversational Agent",
   description: "AI-powered chatbot with authentication",
   generator: "v0.app",
 };
