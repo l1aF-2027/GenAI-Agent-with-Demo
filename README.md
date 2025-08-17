@@ -7,7 +7,6 @@ It’s an amazing collection of tutorials and examples for building Generative A
 
 💡 **Big shout-out to Nir Diamant** for sharing such a valuable resource with the community!
 
----
 
 ## 🎯 Project Goals
 
@@ -15,7 +14,6 @@ It’s an amazing collection of tutorials and examples for building Generative A
 * 🌱 **Simple functional demo (V0)** → A minimal conversational agent with context-awareness.
 * 📚 **Learning-first approach** → As I’m not a frontend expert, the UI will be kept simple, focusing on core agent behavior.
 
----
 
 ## Agent Implementations
 
@@ -23,7 +21,6 @@ It’s an amazing collection of tutorials and examples for building Generative A
 | --- | ---------- | --------------------------- | ----------- | -------------------------------------------------- |
 | 1   | 🌱 Beginner | [Simple Conversational Agent](https://github.com/NirDiamant/GenAI_Agents/tree/main) | LangChain, FastAPI, Next.js   | Context-aware conversations, in-memory history |
 
----
 
 💬 *This repository marks the start of my journey in AI Agent development.*
 Thanks again to **Nir Diamant** for providing the foundation and inspiration 🙏
